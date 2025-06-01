@@ -27,7 +27,7 @@ Jalankan pada directory backend
 
 | ![Login](https://github.com/user-attachments/assets/66194b7d-b71b-4467-94a6-f18329840805) | ![Sosialisasi](https://github.com/user-attachments/assets/3ea7935d-bf39-4cbf-b518-c1fff8047d8d) |
 |:--:|:--:|
-| <img src="[https://github.com/user-attachments/assets/c2dcacfb-1c5b-4743-9dc3-d83a9bf6492d](https://github.com/user-attachments/assets/0a1d982f-579d-4786-8a5a-b55a00635796)" width="250"/> | <img src="https://github.com/user-attachments/assets/e51f3a57-5600-4f81-8fbf-9a848a967ba7" width="250"/> |
+| <img src="https://github.com/user-attachments/assets/4e9749d2-bbfc-4876-a4af-d44fec94933b" width="250"/> | <img src="https://github.com/user-attachments/assets/e51f3a57-5600-4f81-8fbf-9a848a967ba7" width="250"/> |
 
 
 ### Credits
